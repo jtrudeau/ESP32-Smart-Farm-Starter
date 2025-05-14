@@ -79,4 +79,4 @@ This project is intended for educational purposes.
 
 ---
 
-*This project was developed for the STEAM Challenge for Sustainability, empowering students to create innovative technology solutions for environmental challenges.* 
+*This project was developed for the Dunrae Gardens STEAM Challenge for Sustainability, empowering students to create innovative technology solutions for environmental challenges.* 
